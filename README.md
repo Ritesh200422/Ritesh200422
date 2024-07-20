@@ -1,5 +1,5 @@
 # 💫 About Me
-I'm Ritesh Prabhu, an AI enthusiast with a passion for software engineering. I'm currently exploring the field of AIML (Artificial Intelligence Markup Language) and am excited about the potential it has in transforming the way we interact with technology.<br><br>I'm always eager to learn, grow, and contribute to this dynamic field. If you're interested in AIML or software engineering, feel free to connect with me. Let's learn and grow together!<br>
+I'm Ritesh Ramesh Prabhu, an AI enthusiast with a passion for software engineering. I'm currently exploring the field of AIML (Artificial Intelligence Markup Language) and am excited about the potential it has in transforming the way we interact with technology.<br><br>I'm always eager to learn, grow, and contribute to this dynamic field. If you're interested in AIML or software engineering, feel free to connect with me. Let's learn and grow together!<br>
 
 
 ## 🌐 Socials

@@ -12,7 +12,7 @@ I'm Ritesh Ramesh Prabhu, an AI enthusiast with a passion for software engineeri
 <div align="center">
   <h2> My Contributions </h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ritesh200422/ritesh200422/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Ritesh200422/Ritesh200422/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
@@ -31,10 +31,11 @@ I'm Ritesh Ramesh Prabhu, an AI enthusiast with a passion for software engineeri
 <a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>-->
 <h3 align="center">
-   ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+  
  
 </h3>
+ ### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 

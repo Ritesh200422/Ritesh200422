@@ -4,7 +4,7 @@
 🔭 **Working on:** Next-gen conversational AI prototypes  
 🌱 **Learning:** Transformer architectures & MLOps  
 💬 **Ask me about:** AI ethics, startup tech stacks!  
-⚡ **Fun fact:** I can solve a Rubik's cube blindfolded (most of the time)  
+
 
 ## 🛠️ Tech Stack  
 

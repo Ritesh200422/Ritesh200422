@@ -27,8 +27,6 @@
 
 <div align="center">
 
-### 🏆 GitHub Profile Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ritesh200422&theme=radical&no-frame=true&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 📊 Activity Overview
 [![GitHub Streak](https://streak-stats.demolab.com?user=Ritesh200422&theme=radical&hide_border=true&fire=DD2727&ring=DD2727&currStreakNum=DD2727)](https://git.io/streak-stats)  
@@ -54,14 +52,7 @@
 
 </div>  
 
-## 🗓️ Daily Development Streak  
-<!-- Replace with your actual streak data -->
-**Current Streak:** 🔥 15 days  
-**Longest Streak:** 🏆 42 days  
-**Total Contributions:** 📚 1,247 commits  
-**This Year:** 🎯 389 contributions  
-**Pull Requests:** 🔀 67 merged  
-**Code Reviews:** 👁️ 124 reviews  
+
 
 ## 🌐 Let's Connect & Collaborate  
 
@@ -81,14 +72,9 @@
 - 🏗️ Scalable microservices architecture & system design
 - 🔧 Software engineering best practices & clean code architecture
 
-## 📌 Pinned Repositories  
 
-<div align="center">
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ritesh200422&repo=mlops-pipeline&theme=radical)](https://github.com/Ritesh200422/mlops-pipeline)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ritesh200422&repo=microservices-architecture&theme=radical)](https://github.com/Ritesh200422/microservices-architecture)
 
-</div>
+
 
 ## 💼 Software Engineering Skills  
 - **Architecture:** Microservices, Monolith to Microservices migration, System Design
